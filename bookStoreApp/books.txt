@@ -1,0 +1,4 @@
+Dory,50
+The Very Hungry Caterpillar,100
+Snow Family,200
+Corduroy,500
